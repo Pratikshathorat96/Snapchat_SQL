@@ -1,3 +1,6 @@
+![image](https://github.com/Pratikshathorat96/Snapchat_SQL/assets/120496034/a446bd51-65fb-446f-ac56-db3e7558671f)
+
+
 # Product Dissection for Snapchat
 
 ## Company Overview:
